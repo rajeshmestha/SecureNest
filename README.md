@@ -6,7 +6,7 @@ SmartAccess 360 is an Arduino-powered smart door security system that combines m
 
 ## 📷 Project Preview
 
-![SmartAccess 360 Setup](![Image](https://github.com/user-attachments/assets/485d6b0d-28c9-4019-81d7-75cfee91b07f) <!-- Optional if you have an image -->
+[SmartAccess 360 Setup]![Image](https://github.com/user-attachments/assets/485d6b0d-28c9-4019-81d7-75cfee91b07f) <!-- Optional if you have an image -->
 
 ---
 
