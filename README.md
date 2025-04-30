@@ -92,8 +92,6 @@ SmartAccess 360 is an Arduino-powered smart door security system that combines m
 
 ---
 
----
-
 ## 🧪 Future Enhancements
 
 - 🔐 EEPROM-based password storage and change feature
