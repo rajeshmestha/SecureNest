@@ -92,9 +92,6 @@ SmartAccess 360 is an Arduino-powered smart door security system that combines m
 
 ---
 
-## 📁 Folder Structure
-
-
 ---
 
 ## 🧪 Future Enhancements
@@ -122,7 +119,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Rajesh** – Passionate about IoT, VLSI, and embedded systems  
-📧 [Email Me](mestharajesh001@gmail.com) | 🌐 [Portfolio/Social Link]
-
+📧 [Email Me](mestharajesh001@gmail.com)
 ---
 
