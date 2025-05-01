@@ -1,12 +1,12 @@
-# 🔐 SmartAccess 360 – Arduino-Based Smart Door Lock System
+# 🔐 Secure Nest – Arduino-Based Smart Door Lock System
 
-SmartAccess 360 is an Arduino-powered smart door security system that combines multiple technologies to provide secure, automated, and intelligent home access control. It features a 4x4 keypad for password entry, an LCD display for real-time feedback, a servo motor to control door locking, and sensors for temperature and light-based automation. Ideal for smart home applications and educational projects in IoT and embedded systems.
+Secure Nest is an Arduino-powered smart door security system that combines multiple technologies to provide secure, automated, and intelligent home access control. It features a 4x4 keypad for password entry, an LCD display for real-time feedback, a servo motor to control door locking, and sensors for temperature and light-based automation. Ideal for smart home applications and educational projects in IoT and embedded systems.
 
 ---
 
 ## 📷 Project Preview
 
-[SmartAccess 360 Setup]![Image](https://github.com/user-attachments/assets/485d6b0d-28c9-4019-81d7-75cfee91b07f) <!-- Optional if you have an image -->
+[Secure Nest Setup]![Image](https://github.com/user-attachments/assets/485d6b0d-28c9-4019-81d7-75cfee91b07f) 
 
 ---
 
